@@ -3,7 +3,6 @@
 //  LayoutDependenceViewHierarchy
 //
 //  Created by wangqiang li on 6/2/17.
-//  Copyright © 2017 Autodesk. All rights reserved.
 //
 
 import UIKit
